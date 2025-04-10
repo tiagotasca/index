@@ -1,3 +1,6 @@
+[Home](index.md) | [CV](cv.md) | [Research](research.md)
+
+
 # Tiago Tasca  
 _PhD Candidate in Political Science_  
 University of California, Santa Cruz  
